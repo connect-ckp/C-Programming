@@ -9,3 +9,4 @@
 	For a 32-Bit OS Compiler, pointers occupy 4 Bytes and the addresses have 8 Hexadecimal digits.
 
 ***********************************************************************************************/
+
