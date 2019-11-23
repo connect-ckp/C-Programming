@@ -82,24 +82,24 @@ CONTENTS
 	2. Stringize and token pasting operator
 11. Advanced
 	1. More on data types, Defining your own types (typedef)
-	3. More on the preprocessor 
-	4. String concatenation
-	5. More on void*s
-	6. Static libraries and shared objects
-	7. Macros
-	8. Unions
-	9. Advanced Pointers, Function Pointers
-   	10. Variable arguments to functions (Variadic Functions)
-   	11. Dynamic Linking (dlm_open)
-   	12. Signals, forking and inter-process communication
-   	13. Threading & Concurrency
-   	14. Sockets
-   	15. setjmp & longjmp for restoring state
-   	16. More on memory management & fragmentation
-   	17. More on making your program portable
-   	18. Interfacing with kernel modules (drivers & ioctls)
-   	19. More on compiler & linker flags
-   	20. Advanced use of gdb
-   	21. Profiling and Tracing tools (gprof, dtrace, strace)
-   	22. Memory debugging tools such as valgrind
+	2. More on the preprocessor 
+	3. String concatenation
+	4. More on void*s
+	5. Static libraries and shared objects
+	6. Macros
+	7. Unions
+	8. Advanced Pointers, Function Pointers
+   	9. Variable arguments to functions (Variadic Functions)
+   10. Dynamic Linking (dlm_open)
+   11. Signals, forking and inter-process communication
+   12. Threading & Concurrency
+   13. Sockets
+   14. setjmp & longjmp for restoring state
+   15. More on memory management & fragmentation
+   16. More on making your program portable
+   17. Interfacing with kernel modules (drivers & ioctls)
+   18. More on compiler & linker flags
+   19. Advanced use of gdb
+   20. Profiling and Tracing tools (gprof, dtrace, strace)
+   21. Memory debugging tools such as valgrind
    
