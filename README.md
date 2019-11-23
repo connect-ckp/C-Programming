@@ -90,16 +90,16 @@ CONTENTS
 	7. Unions
 	8. Advanced Pointers, Function Pointers
    	9. Variable arguments to functions (Variadic Functions)
-   10. Dynamic Linking (dlm_open)
-   11. Signals, forking and inter-process communication
-   12. Threading & Concurrency
-   13. Sockets
-   14. setjmp & longjmp for restoring state
-   15. More on memory management & fragmentation
-   16. More on making your program portable
-   17. Interfacing with kernel modules (drivers & ioctls)
-   18. More on compiler & linker flags
-   19. Advanced use of gdb
-   20. Profiling and Tracing tools (gprof, dtrace, strace)
-   21. Memory debugging tools such as valgrind
+   	10. Dynamic Linking (dlm_open)
+   	11. Signals, forking and inter-process communication
+   	12. Threading & Concurrency
+   	13. Sockets
+   	14. setjmp & longjmp for restoring state
+   	15. More on memory management & fragmentation
+   	16. More on making your program portable
+   	17. Interfacing with kernel modules (drivers & ioctls)
+   	18. More on compiler & linker flags
+   	19. Advanced use of gdb
+   	20. Profiling and Tracing tools (gprof, dtrace, strace)
+   	21. Memory debugging tools such as valgrind
    
