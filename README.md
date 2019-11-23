@@ -1,7 +1,7 @@
 # C-Programming
-/***************/
-*** CONTENTS ***
-****************/
+
+CONTENTS
+
 1. C Fundamentals
 	1. Introduction to C
 	2. Set up C lab
